@@ -15,7 +15,6 @@ Software engineering ensures that systems are designed to handle growth (scalabi
 
 b. Meeting User Needs
 Software engineering focuses on understanding user requirements and delivering solutions that solve real-world problems.
-
 This user-centric approach ensures that software is functional, intuitive, and meets expectations.
 
 c. Cost and Time Efficiency
